@@ -18,11 +18,11 @@ Input:
 Output:
 
 *German Translations:  
-hallo  *  
+hallo*    
   
 *German example:  
 Finally got a personalized hello from Earl.  
-Ich habe endlich ein personifiziertes hallo von Earl bekommen.  *
+Ich habe endlich ein personifiziertes hallo von Earl bekommen.*  
 
 
 
