@@ -18,7 +18,7 @@ You will learn to work with loops and conditions, files, pip and packages. Youâ€
   
 # Example    
 **Input:**  
-> python translator.py english german hello  
+python translator.py english german hello  
 **Output:**    
 german Translations:  
 hallo  
