@@ -13,7 +13,7 @@ I've learned to work with loops and conditions, files, pip, packages, requests a
   
 **Example**    
 Input:    
-*python translator.py english german hello  *
+*python translator.py english german hello*  
   
 Output:
 
